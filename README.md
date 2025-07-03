@@ -1,2 +1,2 @@
 # Easyroof-v2
-Corredora/gestionadora de propiedades personalizada
+Corredora de propiedades personalizada y gestionadores de negocios afines
